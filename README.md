@@ -44,8 +44,6 @@ To recreate all results, tables, and figures:
 Notes: The do-files will load the relevant .dta files when 
        needed to run the analyses. Files can be run in any order.
 
-Study instruments are provided in docx format as well as qsf (Qualtrics) format.
-
 ---------------------------------------
 DATA-SPECIFIC INFORMATION
 
