@@ -11,19 +11,17 @@ bianca.manago@vanderbilt.edu
 ----------------------------------------------------
 FILE LIST
 
-_aad-spq-primary.do
-_aad-spq-packages.do
+- _aad-spq-primary.do
+- _aad-spq-packages.do
 
-
-aad-spq-data05-3-scales.dta
-aad-spq-data05-4-exclusions.dta
-aad-spq-data05-4-full.dta
-aad-spq-do00-demographics.do
-aad-spq-do01-coefplots.do
-aad-spq-do02-reg.do
-aad-spq-do03-scatter.do
-aad-spq-do04-tables.do
-aad-spq-do05-factorAnalysis.do
+- aad-spq-data05-4-exclusions.dta
+- aad-spq-data05-4-full.dta
+- aad-spq-do00-demographics.do
+- aad-spq-do01-coefplots.do
+- aad-spq-do02-reg.do
+- aad-spq-do03-scatter.do
+- aad-spq-do04-tables.do
+- aad-spq-do05-factorAnalysis.do
 
 All script files are explained in _aad-spq-primary.do
 
