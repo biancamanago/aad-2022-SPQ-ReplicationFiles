@@ -11,6 +11,11 @@ bianca.manago@vanderbilt.edu
 ----------------------------------------------------
 FILE LIST
 
+Study Design Files (Programmed in Qualtrics)
+- aad-spq-studyDesign.pdf 
+- aad-spq-studyDesign.qsf 
+
+Script Files
 - _aad-spq-primary.do
 - _aad-spq-packages.do
 
@@ -28,8 +33,12 @@ All script files are explained in _aad-spq-primary.do
 ------------------------------------------------------
 FILE INFORMATION
 
-To recreate all results, tables, and figures:
+Study Design
+The .pdf file can be used to see how study was designed
+The .qsf file can be loaded directly into Qualtrics
 
+Script Files
+To recreate all results, tables, and figures:
 - Step 1. Download Stata (we use version 14.1 for all files - 
           newer versions can run version 14.1).
 - Step 2. Download the zip with all files and folders to your desktop. 
